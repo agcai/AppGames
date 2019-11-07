@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Effective date: November 07, 2019
+Effective date: September 9, 2019
 
 App ("us", "we", or "our") operates the App mobile application (the "Service").
 
