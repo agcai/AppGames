@@ -1,4 +1,4 @@
-<h1>App Privacy Policy</h1>
+# <h1>App Privacy Policy</h1>
 
 
 <p>Effective date: September 9, 2019</p>
