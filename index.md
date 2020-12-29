@@ -4,7 +4,7 @@
 <p>Effective date: September 9, 2019</p>
 
 
-<p>App ("us", "we", or "our") operates the App mobile application (the "Service").</p>
+<p>App Games ("us", "we", or "our") operates the App Games mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
 
@@ -62,7 +62,7 @@
 <h2>Disclosure Of Data</h2>
 
 <h3>Legal Requirements</h3>
-<p>App may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<p>App Games may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
 <ul>
     <li>To comply with a legal obligation</li>
     <li>To protect and defend the rights or property of App</li>
