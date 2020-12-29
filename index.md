@@ -103,7 +103,7 @@
 <ul>
     
     
-<h1>Support</h1>
+<p><h1>Support</h1><p>
 
 <ul>
     <li>Application Games Technical Support</li>
