@@ -102,7 +102,7 @@
         <li>By email: AppDevspace@outlook.com</li>
           
 
-## Technical Support
+## Support
 
 <ul>
     <li>Application Games Technical Support</li>
@@ -122,3 +122,5 @@
 </ul>
 
 ### Thanks.
+
+
