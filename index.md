@@ -101,27 +101,3 @@
 <ul>
         <li>By email: AppDevspace@outlook.com</li>
 <ul>
-    
-    
-<p><h1>Support</h1><p>
-
-<ul>
-    <li>Application Games Technical Support</li>
-    <li>Application Games Bug Feedback</li>
-    <li>Application Games design and system consulting</li>
-    <li>Application Games Development and Application Store Review Service</li>
-    <li>Application Games Store Optimization Service</li>
-    <li>Application Games Product Promotion Operation Service</li>
-</ul>
-
-<h2>If you have any questions, Please Contact Us.<h2>
-<h3>Support or Contact<h3>
-
-<ul>
-    <li>Telegram：AndyLeeCN</li>
-    <li>E-mail：AppDevspace@outlook.com</li>
-</ul>
-
-<h3>Thanks.<h3>
-
-
