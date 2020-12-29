@@ -100,7 +100,7 @@
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: AppDevspace@outlook.com</li>
-          
+<ul>
 
 ## Support
 
